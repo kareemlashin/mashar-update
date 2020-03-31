@@ -1,0 +1,29 @@
+/* prefixed by https://autoprefixer.github.io (PostCSS: v7.0.26, autoprefixer: v9.7.3) */
+
+p {
+    color: #000 !important;
+    font-size: 20px;
+}
+
+span {
+    color: #D4AF37;
+    font-weight: 700;
+}
+
+i {
+    color: #D4AF37;
+}
+
+.tipsCard {
+    font-size: 30px;
+    color: black;
+    font-weight: 900;
+}
+
+.fa-bars {
+    color: #fff !important;
+}
+
+.toggle-sidebar-left i {
+    color: #fff !important;
+}
